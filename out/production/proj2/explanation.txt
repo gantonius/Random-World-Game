@@ -1,0 +1,1 @@
+I started on this project a little late and got stuck on some parts. We had issues with implementing random number generator and we need to fix the style since some of our methods are too long.
